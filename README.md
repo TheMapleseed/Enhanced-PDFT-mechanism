@@ -19,14 +19,10 @@ This implementation includes several security-critical features:
 
 ## Reporting a Vulnerability
 
-Please report security vulnerabilities to security@enterprise.com.
+do it here
 
 For sensitive issues, use our PGP key:
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
-[Key would be here]
------END PGP PUBLIC KEY BLOCK-----
-```
+
 
 ## Security Considerations
 
