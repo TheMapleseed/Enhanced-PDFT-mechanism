@@ -19,9 +19,7 @@ This implementation includes several security-critical features:
 
 ## Reporting a Vulnerability
 
-do it here
-
-For sensitive issues, use our PGP key:
+do it here, or hir me up on X.
 
 
 ## Security Considerations
