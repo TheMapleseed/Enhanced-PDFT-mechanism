@@ -19,7 +19,7 @@ This implementation includes several security-critical features:
 
 ## Reporting a Vulnerability
 
-do it here, or hit me up on X.
+Do it here, or hit me up on X.
 
 
 ## Security Considerations
